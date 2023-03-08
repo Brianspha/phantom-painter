@@ -1,0 +1,1 @@
+ganache-cli -l 10000000 --fork https://eth-mainnet.alchemyapi.io/v2/pvGDp1uf8J7QZ7MXpLhYs_SnMnsE0TY5 -d -i 1 -u 0x9759A6Ac90977b93B58547b4A71c78317f391A28  

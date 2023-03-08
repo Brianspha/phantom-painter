@@ -1,0 +1,65 @@
+{
+  "name": "fantom-painter",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build",
+    "lint": "vue-cli-service lint"
+  },
+  "dependencies": {
+    "@metamask/detect-provider": "^2.0.0",
+    "bignumber.js": "^9.1.1",
+    "core-js": "^3.6.5",
+    "essential-eth": "^0.6.2",
+    "ether-converter": "^0.0.16",
+    "randomcolor": "^0.6.2",
+    "sweetalert2": "^11.7.2",
+    "username-generator": "^1.1.0",
+    "vue": "^2.6.11",
+    "vue-awesome-countdown": "^1.1.4",
+    "vue-countdown": "^1.0.4",
+    "vue-router": "^3.2.0",
+    "vue-swatches": "^2.1.1",
+    "vuetify": "^2.6.0",
+    "vuex": "^3.0.1",
+    "vuex-persistedstate": "^2.5.4",
+    "web3": "^1.8.2",
+    "web3-eth-contract": "^1.8.2",
+    "web3-utils": "^1.8.2"
+  },
+  "devDependencies": {
+    "@vue/cli-plugin-babel": "~4.5.15",
+    "@vue/cli-plugin-eslint": "~4.5.15",
+    "@vue/cli-plugin-router": "~4.5.15",
+    "@vue/cli-service": "~4.5.15",
+    "babel-eslint": "^10.1.0",
+    "eslint": "^6.7.2",
+    "eslint-plugin-vue": "^6.2.2",
+    "sass": "~1.32.0",
+    "sass-loader": "^10.0.0",
+    "vue-cli-plugin-store": "~0.0.7",
+    "vue-cli-plugin-vuetify": "~2.5.8",
+    "vue-template-compiler": "^2.6.11",
+    "vuetify-loader": "^1.7.0"
+  },
+  "eslintConfig": {
+    "root": true,
+    "env": {
+      "node": true
+    },
+    "extends": [
+      "plugin:vue/essential",
+      "eslint:recommended"
+    ],
+    "parserOptions": {
+      "parser": "babel-eslint"
+    },
+    "rules": {}
+  },
+  "browserslist": [
+    "> 1%",
+    "last 2 versions",
+    "not dead"
+  ]
+}
