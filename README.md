@@ -3,7 +3,7 @@
 This is a silly project that allows anyone to own a pixel within a canvas. Each pixel represents an NFT whose metadata is stored on the Tableland network
 
 ### Demo
-<a href="https://drive.google.com/file/d/1kQUECS-lM6iJnVSIV9BZHyMCQ9QOVPa1/view?usp=sharing">Click Me :XD</a>
+<a href="https://drive.google.com/file/d/1rW1RIs7fAst7irLol5rRMSXwSD6Ql6V_/view?usp=sharing">Click Me :XD</a>
 ## Project setup
 
 ```
